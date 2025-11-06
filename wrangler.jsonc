@@ -17,7 +17,7 @@
     "PUBLIC_TEST_CILANTRO_URL": "http://production.api.cilantro.example.com",
   },
   "secrets": [
-    "TEST_ACCOUNT_ID",
+    "TEST_SECRET_ACCOUNT_ID",
     "TEST_SECRET_API_KEY"
   ]
 }
